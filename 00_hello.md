@@ -16,12 +16,12 @@
 * C is a producural programming language developed in the early 1970s by Dennis Ritchie at Bell labs.
 * Unlike java, there are no _objects_, instead, the basic pieces of C programs are procedures/functions.
 * C works more like python, write functions and use them, though it is a compiled language.
-* C sytax is the same as java syntax (lines end with ; , {} for control structures and functions, basic assignment and boolean operators ...), though to be more corrext, java sytax is C syntax. The developers of java (early 90's) decided to use C syntax so it was easier for programmers to adopt the new language.
+* C syntax is the same as java syntax (lines end with ; , {} for control structures and functions, basic assignment and boolean operators ...), though to be more corrext, java syntax is C syntax. The developers of java (early 90's) decided to use C syntax so it was easier for programmers to adopt the new language.
 * C does not hava a virtual machine like java, C code must be compiled for a specific __platform__ (processor type + operating system). Therefore compiled C files cannot work on different computers, unlike java .class files.
- * C was designed to write programs that run _fast_, like, real _fast_. A program written in raw binary (machine code), would run the fastest, as no interpretation would be required. But humans don't think in binary, so the next step up is Assembly Code, which uses commands like `mov` and `dec` instead of binary. It's better to read than binary, but not by much. C is a much more structured and human-readable language, but compiled C code retains the executaion speed of assembly. 
+ * C was designed to write programs that run _fast_, like, real _fast_. A program written in raw binary (machine code), would run the fastest, as no interpretation would be required. But humans don't think in binary, so the next step up is Assembly Code, which uses commands like `mov` and `dec` instead of binary. It's better to read than binary, but not by much. C is a much more structured and human-readable language, but compiled C code retains the execuion speed of assembly. 
  
 ### Is C important in 2019?
- * C is over 40 years old, back then, computers wer the size of closets, hard drives held ~5MB, RAM was ~8KB, processor speeds chugged along at 1MHz. Surely, we've got better languages now...
+ * C is over 40 years old, back then, computers were the size of closets, hard drives held ~5MB, RAM was ~8KB, processor speeds chugged along at 1MHz. Surely, we've got better languages now...
  * C programs are still the fastest (or amongst the fastest depending on the analysis). Here's [one such analysis](https://jaxenter.com/energy-efficient-programming-languages-137264.html), though you can find many others.
  * C is the precursor to many newer languages including C++ and Objective-C.
  * Due to it's speed, stability and longevity, C is still one of [the most popular programming languages](https://www.tiobe.com/tiobe-index/).
