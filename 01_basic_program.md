@@ -1,7 +1,8 @@
 # Compiling your C Knowledge
 
 ### Administrative Stuff
- * Thank you to everyone that has filled out the information survey. As of this writting, I have 79 responses!
+ * A big thank you to Mr. Holmes for stepping in yesterday for all my classes!
+ * Thank you to everyone that has filled out the information survey. As of this writting, I have ~~79~~ 91 responses!
  * I will be getting the google group QAF up and running sometime today. Be on the lookout for an invitation to the group via your stuy.edu email. The QAF will probably be quite helpful over the weeeked as you get started working in C.
 ---
 
