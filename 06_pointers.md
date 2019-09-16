@@ -41,7 +41,7 @@
    * ![pointer](img/06_02_point.jpg)
    * Here `p` is a pointer variable that stores the address of the variable `x`.
    * Notice that p is a normal variable, and has its own, different, memory address.
-   * If you're thinking, "hey, this looks familiar... like object variables in java". You're right! Object variables, or references, are java's pointers. You just don't have as much control over them as we do in C. In fact, think about the error you get when you try to use an uninitialized object variable in java... _null pointer_, meaning the reference stored is 0 (null), which is an invlaid memory address.
+   * If you're thinking, "hey, this looks familiar... like object variables in java". You're right! Object variables, or references, are java's pointers. You just don't have as much control over them as we do in C. In fact, think about the error you get when you try to use an uninitialized object variable in java... _null pointer_, meaning the reference stored is 0 (null), which is an invalid memory address.
  * `*` is also used as the __de-reference operator__. This will return the value stored at the memory address pointed to by the pointer. 
    * Given the definitions of `x` and `p` above:
    * `int y = *p + 10;` would set `y` to the value `15`.
