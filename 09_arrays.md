@@ -94,6 +94,6 @@
     * Populate the second array with the values in the first but in reverse order
     * Print out the values in the second array
 
-For this assignment, _do not create helper functions, put everything inside main_ (it won't be too long). We will talk about passing arrays and pointers are function arguments in a few days.
+For this assignment, _do not create helper functions, put everything inside main_ (it won't be too long). We will talk about passing arrays and pointers as function arguments in a few days.
 
 Assignment link: https://classroom.github.com/a/sm1GghCe
